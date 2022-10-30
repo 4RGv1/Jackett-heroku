@@ -34,4 +34,4 @@ git push heroku master -f
 
 ### Quick Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/toni26s/Jackett_Heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/4RGv1/Jackett_Heroku)
